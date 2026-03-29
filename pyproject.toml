@@ -1,0 +1,23 @@
+[project]
+name = "applied-data-sci-for-marketing-and-customer-insights"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "graphviz>=0.21",
+    "ipykernel>=7.2.0",
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.5.6",
+    "keras>=3.13.2",
+    "matplotlib>=3.10.8",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+    "plotly>=6.6.0",
+    "pyjanitor>=0.32.20",
+    "scikit-learn>=1.8.0",
+    "shap>=0.51.0",
+    "statsmodels>=0.14.6",
+    "tensorflow>=2.21.0",
+    "ucimlrepo>=0.0.7",
+]
